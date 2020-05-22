@@ -1,6 +1,6 @@
 # Hydrasynth Remote Script for Ableton Live
 
-This respository contains a remote script for Ableton Live as well as a corresponding patch to use Hydrasynth as a Midi Control Surface with the 8 Macro knobs automapped to Ableton Live.
+This repository contains a remote script for Ableton Live as well as a corresponding patch to use Hydrasynth as a Midi Control Surface with the 8 Macro knobs automapped to Ableton Live.
 
 To install:
 
