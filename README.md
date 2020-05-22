@@ -13,6 +13,6 @@ Windows: C:\Users\[Username]\AppData\Roaming\Ableton\Live x.x.x\Preferences\User
 
 More details: https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script
 
-3) Copy Midi patch from the Midi Bank to your Hydrasynth using the Hydrasynth Manager
+3) Copy the Midi patch from the Midi Bank to your Hydrasynth using the Hydrasynth Manager
 
 4) In Ableton select Hydrasynth as remote surface (and corresponding Input / Output device)
