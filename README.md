@@ -4,9 +4,9 @@ This repository contains a remote script for Ableton Live as well as a correspon
 
 To install:
 
-1) Edit UserConfiguration.txt in Hydrasynth Folder and change your Midi Channel, the default ist Channel 10 (Value: 9), for Channel 1 use: 0
+1) Edit UserConfiguration.txt in the Hydrasynth Folder and change your Midi Channel, the default ist Channel 10 (Value: 9), for Channel 1 use: 0
 
-2) Copy Hydrasynth Folder to your remote script folder
+2) Copy the Hydrasynth Folder to your remote script folder
 
 Mac: HD:/Users/[Username]/Library/Preferences/Ableton/Live x.x.x/User Remote Scripts
 Windows: C:\Users\[Username]\AppData\Roaming\Ableton\Live x.x.x\Preferences\User Remote Scripts
